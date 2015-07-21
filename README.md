@@ -1,2 +1,3 @@
-# makers-assets
-All of the images used across Maker's Academy websites in one 
+# Makers Image Assets
+
+All of the images used across Maker's Academy websites in one repo and served via GitHub pages to http://images.makersacademy.com
